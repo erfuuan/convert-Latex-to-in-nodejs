@@ -28,7 +28,10 @@ npm i node-cmd
 npm i fs
 ```
 
-now you can write a text in this url with Postman:
+
+now you can write a text in the browser via Postman and view its PDF output 
+
+
 
 ![alt text](https://github.com/erfan0798/convert-Latex-to-in-nodejs/blob/master/Latex-body-text6.png)
 
